@@ -5,10 +5,17 @@ An interactive spreadsheet designed to monitor individual and team task progress
 ![image alt](https://github.com/Zwothemata/Data-Validation/blob/9e86fb40ba769cb3f80cdddc950b6fd5c618be41/Screenshot%20(254).png )
 
 
+
 ![image alt](https://github.com/Zwothemata/Data-Validation/blob/63f953e42bf38bac115641dba67413a6a0fef638/Screenshot%20(255).png )
+
 
 
 ![image alt](https://github.com/Zwothemata/Data-Validation/blob/bc9f8531196428ac6e658f862bbe1d373fe33445/Screenshot%20(256).png)
 
 
+
 ![image alt](https://github.com/Zwothemata/Data-Validation/blob/7f6f332ca9f9a28572b7794bff343f54f7745c26/Screenshot%20(257).png)
+
+
+
+![image alt](https://github.com/Zwothemata/Data-Validation/blob/24ba3b9771ba59694ac94421e28f7643a54ed61f/Screenshot%20(258).png)
